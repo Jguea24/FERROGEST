@@ -1,0 +1,6 @@
+{
+  "name": "FERROGEST",
+  "description": "Sistema de gestión integral de inventario, ventas, stock, caja y compras para la ferretería FERRO GET.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
